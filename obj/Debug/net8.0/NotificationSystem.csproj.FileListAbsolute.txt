@@ -1,0 +1,15 @@
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/bin/Debug/net8.0/NotificationSystem
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/bin/Debug/net8.0/NotificationSystem.deps.json
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/bin/Debug/net8.0/NotificationSystem.runtimeconfig.json
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/bin/Debug/net8.0/NotificationSystem.dll
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/bin/Debug/net8.0/NotificationSystem.pdb
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.AssemblyInfoInputs.cache
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.AssemblyInfo.cs
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.csproj.CoreCompileInputs.cache
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.sourcelink.json
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.dll
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/refint/NotificationSystem.dll
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.pdb
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/NotificationSystem.genruntimeconfig.cache
+/home/edjeronimo/Documentos/GitHub/notifc-mult-canal/obj/Debug/net8.0/ref/NotificationSystem.dll
